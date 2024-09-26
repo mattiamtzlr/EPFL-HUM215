@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "3. Mythes en Égypte ancienne.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 284.5,
+    "collapsed": true
   },
   "right": {
     "id": "922db9e95166599e",
@@ -149,8 +150,8 @@
   },
   "active": "cfa5350e6c478226",
   "lastOpenFiles": [
-    "README.md",
     "3. Mythes en Égypte ancienne.md",
+    "README.md",
     "images",
     "images/ancient-egypt-chronology.png",
     "2. Mythes dans le Proche-Orient Ancien.md",
