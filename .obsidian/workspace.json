@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fd2b8530e6f3c2c2",
+        "id": "e77138253bd80c43",
         "type": "tabs",
         "children": [
           {
-            "id": "cfa5350e6c478226",
+            "id": "e3c4281f25a8b878",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "e7993872f99fae50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Mythes en Grèce.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Mythes en Égypte ancienne.md",
+                "file": "4. Mythes en Grèce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Mythes en Égypte ancienne.md",
+                "file": "4. Mythes en Grèce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Mythes en Égypte ancienne.md"
+                "file": "4. Mythes en Grèce.md"
               }
             }
           }
@@ -148,13 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cfa5350e6c478226",
+  "active": "e7993872f99fae50",
   "lastOpenFiles": [
+    "4. Mythes en Grèce.md",
+    "images/family_tree_hesiod.png",
+    "2. Mythes dans le Proche-Orient Ancien.md",
     "3. Mythes en Égypte ancienne.md",
+    "images/myths_greek_differences.png",
+    "slides/mythes_grece.pdf",
     "README.md",
     "images",
     "images/ancient-egypt-chronology.png",
-    "2. Mythes dans le Proche-Orient Ancien.md",
     "1. Espaces de la Méditerranée antique.md",
     "0. Administrative.md",
     "slides/legende_isis_re.pdf",
