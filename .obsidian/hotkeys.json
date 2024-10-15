@@ -53,15 +53,6 @@
       "key": "L"
     }
   ],
-  "editor:insert-callout": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "W"
-    }
-  ],
   "app:open-vault": [
     {
       "modifiers": [
@@ -70,5 +61,15 @@
       ],
       "key": "O"
     }
-  ]
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }

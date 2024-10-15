@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2ff07dfe948c041",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2ca689472a61c3b",
+            "id": "a7da66c36b254ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "5. Pantheon du Levant et POA.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b6dbe1c49b7ed654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Pantheon de la Grèce.md",
                 "mode": "preview",
                 "source": true
               }
@@ -95,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Pantheon du Levant et POA.md",
+                "file": "6. Pantheon de la Grèce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Pantheon du Levant et POA.md",
+                "file": "6. Pantheon de la Grèce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Pantheon du Levant et POA.md"
+                "file": "6. Pantheon de la Grèce.md"
               }
             }
           }
@@ -157,22 +161,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2ca689472a61c3b",
+  "active": "b6dbe1c49b7ed654",
   "lastOpenFiles": [
-    "images/cuneiform_alphabet.png",
+    "6. Pantheon de la Grèce.md",
+    "Untitled.md",
     "5. Pantheon du Levant et POA.md",
+    "README.md",
+    "slides/pantheon_grece.pdf",
+    "slides/pantheon_levant.pdf",
+    "images/cuneiform_alphabet.png",
     "3. Mythes en Égypte ancienne.md",
     "sources",
     "4. Mythes en Grèce.md",
     "images/hebrew_sentence.png",
-    "slides/pantheon_levant.pdf",
     "1. Espaces de la Méditerranée antique.md",
     "2. Mythes dans le Proche-Orient Ancien.md",
     "1. Antique Mediterranean Places.md",
     "images/family_tree_hesiod.png",
     "images/myths_greek_differences.png",
     "slides/mythes_grece.pdf",
-    "README.md",
     "images",
     "images/ancient-egypt-chronology.png",
     "0. Administrative.md",
