@@ -1,10 +1,10 @@
 {
-  "accentColor": "#a28fff",
+  "accentColor": "#9580ff",
   "interfaceFontFamily": "RecMonoLinear Nerd Font",
   "textFontFamily": "RecMonoLinear Nerd Font",
   "monospaceFontFamily": "RecMonoLinear Nerd Font",
   "nativeMenus": false,
   "cssTheme": "Tokyo Night Storm",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 16
 }

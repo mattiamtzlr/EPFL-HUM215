@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e77138253bd80c43",
+        "id": "5474f2695282f625",
         "type": "tabs",
         "children": [
           {
-            "id": "2b63047635a132aa",
+            "id": "cc9b095004170ff9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Espaces de la Méditerranée antique.md",
+                "file": "7. Pantheon d'Égypte.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1. Espaces de la Méditerranée antique"
-            }
-          },
-          {
-            "id": "4422f7166179b270",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Mythes dans le Proche-Orient Ancien.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2. Mythes dans le Proche-Orient Ancien"
-            }
-          },
-          {
-            "id": "b7fec32226945030",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Mythes en Égypte ancienne.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "3. Mythes en Égypte ancienne"
-            }
-          },
-          {
-            "id": "c47abfd64ad9acbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Mythes en Grèce.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "4. Mythes en Grèce"
-            }
-          },
-          {
-            "id": "2f84988922d9b43f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5. Pantheon du Levant et POA.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "5. Pantheon du Levant et POA"
-            }
-          },
-          {
-            "id": "1096583be690369e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Pantheon de la Grèce.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "6. Pantheon de la Grèce"
+              "title": "7. Pantheon d'Égypte"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,21 +164,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7fec32226945030",
+  "active": "cc9b095004170ff9",
   "lastOpenFiles": [
-    "6. Pantheon de la Grèce.md",
-    "2. Mythes dans le Proche-Orient Ancien.md",
+    "images/eye_of_horus.png",
+    "images/funerary_texts.png",
+    "Pasted image 20241029154706.png",
+    "7. Pantheon d'Égypte.md",
+    "images/heliopolis.png",
+    "images/nomes_ancient_egypt.png",
     "3. Mythes en Égypte ancienne.md",
-    "sources/legende_isis_re.pdf",
-    "1. Espaces de la Méditerranée antique.md",
     "5. Pantheon du Levant et POA.md",
+    "slides/pantheon_egypte.pdf",
+    "6. Pantheon de la Grèce.md",
     "4. Mythes en Grèce.md",
+    "1. Espaces de la Méditerranée antique.md",
+    "2. Mythes dans le Proche-Orient Ancien.md",
+    "sources/legende_isis_re.pdf",
     "images/solar_barque.jpg",
     "images/solar_barque",
     "images/lower_high_egypt.png",
     "README.md",
     "0. Administrative.md",
-    "Untitled.md",
     "slides/pantheon_grece.pdf",
     "slides/pantheon_levant.pdf",
     "images/cuneiform_alphabet.png",
@@ -260,9 +195,7 @@
     "images/myths_greek_differences.png",
     "slides/mythes_grece.pdf",
     "images",
-    "images/ancient-egypt-chronology.png",
     "slides/mythes_egypte_ancienne.pdf",
-    "slides/espaces_med_antique.pdf",
-    "slides/mythes_proche_orient_ancien.pdf"
+    "slides/espaces_med_antique.pdf"
   ]
 }
