@@ -1,17 +1,17 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": " all",
+      "query": "path:.",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15629529
       }
     }
   ],
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 160,
   "scale": 0.8308533254535754,
-  "close": false
+  "close": true
 }
