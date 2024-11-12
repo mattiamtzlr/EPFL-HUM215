@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "42f0a9ecdc410677",
+        "id": "6bab05c729133a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "3edac03d5c7dc913",
+            "id": "f1a320d0fe7ad6e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "20204316b3f99b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Cosmo-Anthropogonie Grèce.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "9. Cosmo-Anthropogonie Grèce"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,38 +176,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3edac03d5c7dc913",
+  "active": "20204316b3f99b18",
   "lastOpenFiles": [
+    "9. Cosmo-Anthropogonie Grèce.md",
+    "0. Administrative.md",
+    "slides/1-espaces_med_antique.pdf",
+    "images/solar_barque.jpg",
+    "images/family_tree_hesiod.png",
+    "images/relations_gods_hesiod-2.png",
+    "images/relations_gods_hesiod-1.png",
+    "images/family_tree_homer.png",
+    "8. Midterm.md",
+    "8. Midterm.md~",
+    "6. Pantheon de la Grèce.md",
+    "slides/9-cosmo_anthro_grece.pdf",
+    "midterm/METZLER_Mattia.pdf",
     "slides/7-pantheon_egypte.pdf",
     "slides/6-pantheon_grece.pdf",
     "slides/5-pantheon_POA.pdf",
     "slides/4-mythes_grece.pdf",
     "slides/3-mythes_egypte_ancienne.pdf",
     "slides/2-mythes_POA.pdf",
-    "slides/1-espaces_med_antique.pdf",
     "7. Pantheon d'Égypte.md",
-    "6. Pantheon de la Grèce.md",
     "5. Pantheon du Levant et POA.md",
     "4. Mythes en Grèce.md",
     "3. Mythes en Égypte ancienne.md",
     "2. Mythes dans le Proche-Orient Ancien.md",
-    "slides/0-general_chronology.pdf",
-    "print/7-pantheon_egypte.pdf",
-    "print/6-pantheon_grece.pdf",
-    "print/5-pantheon_poa.pdf",
     "1. Espaces de la Méditerranée antique.md",
-    "images/family_tree_hesiod.png",
-    "0. Administrative.md",
     "images/eye_of_horus.png",
     "images/funerary_texts.png",
     "Pasted image 20241029154706.png",
     "images/heliopolis.png",
     "images/nomes_ancient_egypt.png",
-    "images/solar_barque.jpg",
-    "images/lower_high_egypt.png",
     "README.md",
-    "images/cuneiform_alphabet.png",
-    "images/hebrew_sentence.png",
     "1. Antique Mediterranean Places.md"
   ]
 }
