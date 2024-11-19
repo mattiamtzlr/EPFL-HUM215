@@ -24,15 +24,29 @@
               "type": "markdown",
               "state": {
                 "file": "9. Cosmo-Anthropogonie Grèce.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "9. Cosmo-Anthropogonie Grèce"
             }
+          },
+          {
+            "id": "a8e3410b2ecf715e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Cosmo-Anthropogonie POA.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "10. Cosmo-Anthropogonie POA"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,11 +98,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 284.5,
+    "width": 353.5,
     "collapsed": true
   },
   "right": {
@@ -176,9 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20204316b3f99b18",
+  "active": "a8e3410b2ecf715e",
   "lastOpenFiles": [
+    "2. Mythes dans le POA.md",
+    "10. Cosmo-Anthropogonie POA.md",
     "9. Cosmo-Anthropogonie Grèce.md",
+    "8. Midterm.md",
     "0. Administrative.md",
     "slides/1-espaces_med_antique.pdf",
     "images/solar_barque.jpg",
@@ -186,7 +204,6 @@
     "images/relations_gods_hesiod-2.png",
     "images/relations_gods_hesiod-1.png",
     "images/family_tree_homer.png",
-    "8. Midterm.md",
     "8. Midterm.md~",
     "6. Pantheon de la Grèce.md",
     "slides/9-cosmo_anthro_grece.pdf",
@@ -201,7 +218,6 @@
     "5. Pantheon du Levant et POA.md",
     "4. Mythes en Grèce.md",
     "3. Mythes en Égypte ancienne.md",
-    "2. Mythes dans le Proche-Orient Ancien.md",
     "1. Espaces de la Méditerranée antique.md",
     "images/eye_of_horus.png",
     "images/funerary_texts.png",
