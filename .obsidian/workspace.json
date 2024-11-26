@@ -18,31 +18,31 @@
             }
           },
           {
-            "id": "20204316b3f99b18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9. Cosmo-Anthropogonie Grèce.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "9. Cosmo-Anthropogonie Grèce"
-            }
-          },
-          {
             "id": "a8e3410b2ecf715e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "10. Cosmo-Anthropogonie POA.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "10. Cosmo-Anthropogonie POA"
+            }
+          },
+          {
+            "id": "b7ad57f84623bbad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Cosmo-Anthropogonie Egypte.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "11. Cosmo-Anthropogonie Egypte"
             }
           }
         ],
@@ -98,13 +98,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "922db9e95166599e",
@@ -166,10 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. Pantheon de la Grèce.md"
+                "file": "11. Cosmo-Anthropogonie Egypte.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. Pantheon de la Grèce"
+              "title": "Outline of 11. Cosmo-Anthropogonie Egypte"
             }
           }
         ],
@@ -177,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +188,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8e3410b2ecf715e",
+  "active": "b7ad57f84623bbad",
   "lastOpenFiles": [
-    "2. Mythes dans le POA.md",
     "10. Cosmo-Anthropogonie POA.md",
+    "11. Cosmo-Anthropogonie Egypte.md",
+    "images/shu_nut_geb.png",
+    "images/forms_of_sun_god.png",
+    "images/ennead_heliopolis.png",
+    "slides/11-cosmo_anthro_egypte.pdf",
+    "2. Mythes dans le POA.md",
     "9. Cosmo-Anthropogonie Grèce.md",
     "8. Midterm.md",
     "0. Administrative.md",
@@ -213,7 +215,6 @@
     "slides/5-pantheon_POA.pdf",
     "slides/4-mythes_grece.pdf",
     "slides/3-mythes_egypte_ancienne.pdf",
-    "slides/2-mythes_POA.pdf",
     "7. Pantheon d'Égypte.md",
     "5. Pantheon du Levant et POA.md",
     "4. Mythes en Grèce.md",
@@ -221,9 +222,6 @@
     "1. Espaces de la Méditerranée antique.md",
     "images/eye_of_horus.png",
     "images/funerary_texts.png",
-    "Pasted image 20241029154706.png",
-    "images/heliopolis.png",
-    "images/nomes_ancient_egypt.png",
     "README.md",
     "1. Antique Mediterranean Places.md"
   ]
