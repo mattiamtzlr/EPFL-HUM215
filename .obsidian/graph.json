@@ -8,10 +8,38 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "file: Egypt",
+      "color": {
+        "a": 1,
+        "rgb": 15704863
+      }
+    },
+    {
+      "query": "file: Greece",
+      "color": {
+        "a": 1,
+        "rgb": 14759795
+      }
+    },
+    {
+      "query": "file: 01",
+      "color": {
+        "a": 1,
+        "rgb": 6977495
+      }
+    },
+    {
+      "query": "file: ANE",
+      "color": {
+        "a": 1,
+        "rgb": 6402779
+      }
+    },
+    {
       "query": "path:.",
       "color": {
         "a": 1,
-        "rgb": 9797887
+        "rgb": 9819798
       }
     }
   ],
