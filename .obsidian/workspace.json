@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "12. Politics in Ancient Greece"
             }
+          },
+          {
+            "id": "089fc12466b5de5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Politics in Ancient Egypt.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "13. Politics in Ancient Egypt"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,8 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17600e231d0dd65d",
+  "active": "089fc12466b5de5a",
   "lastOpenFiles": [
+    "images/thebes.png",
+    "images/names_geography_egypt.png",
+    "13. Politics in Ancient Egypt.md",
     "12. Politics in Ancient Greece.md",
     "images/athens_social_structure_2.png",
     "images/athens_social_structure_1.png",
@@ -203,7 +220,6 @@
     "images/family_tree_hesiod.png",
     "images/relations_gods_hesiod-2.png",
     "images/relations_gods_hesiod-1.png",
-    "images/family_tree_homer.png",
     "8. Midterm.md~",
     "slides/9-cosmo_anthro_grece.pdf",
     "midterm/METZLER_Mattia.pdf",
