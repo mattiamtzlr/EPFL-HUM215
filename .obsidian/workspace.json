@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f1a320d0fe7ad6e6",
+            "id": "93db3a3e0f5010dc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,7 +18,49 @@
             }
           },
           {
-            "id": "17600e231d0dd65d",
+            "id": "f1a320d0fe7ad6e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09. Cosmo-Anthropogony in Ancient Greece.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "09. Cosmo-Anthropogony in Ancient Greece"
+            }
+          },
+          {
+            "id": "4845000f1cce9cd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Cosmo-Anthropogony in the ANE.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "10. Cosmo-Anthropogony in the ANE"
+            }
+          },
+          {
+            "id": "7898801ad1fc7a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Cosmo-Anthropogony in Ancient Egypt.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "11. Cosmo-Anthropogony in Ancient Egypt"
+            }
+          },
+          {
+            "id": "353de11d5ac4a53f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +74,7 @@
             }
           },
           {
-            "id": "089fc12466b5de5a",
+            "id": "c35e827b6f9c4dbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,8 +87,7 @@
               "title": "13. Politics in Ancient Egypt"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "922db9e95166599e",
@@ -119,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. Pantheon de la Grèce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +168,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. Pantheon de la Grèce"
+              "title": "Backlinks"
             }
           },
           {
@@ -138,12 +177,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. Pantheon de la Grèce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. Pantheon de la Grèce"
+              "title": "Outgoing links"
             }
           },
           {
@@ -164,15 +202,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "12. Politics in Ancient Greece.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of 12. Politics in Ancient Greece"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,22 +226,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "089fc12466b5de5a",
+  "active": "93db3a3e0f5010dc",
   "lastOpenFiles": [
-    "images/thebes.png",
-    "images/names_geography_egypt.png",
     "13. Politics in Ancient Egypt.md",
     "12. Politics in Ancient Greece.md",
+    "11. Cosmo-Anthropogony in Ancient Egypt.md",
+    "10. Cosmo-Anthropogony in the ANE.md",
+    "09. Cosmo-Anthropogony in Ancient Greece.md",
+    "images/thebes.png",
+    "images/names_geography_egypt.png",
     "images/athens_social_structure_2.png",
     "images/athens_social_structure_1.png",
     "slides/12-politics-grece.pdf",
-    "11. Cosmo-Anthropogony in Ancient Egypt.md",
-    "09. Cosmo-Anthropogony in Ancient Greece.md",
     "08. Midterm.md",
     "07. Pantheon of Ancient Egypt.md",
     "06. Pantheon of Ancient Greece.md",
     "02. Myths in the ANE.md",
-    "10. Cosmo-Anthropogony in the ANE.md",
     "05. Pantheon of the Levant and the ANE.md",
     "04. Myths in Ancient Greece.md",
     "03. Myths in Ancient Egypt.md",
@@ -219,7 +255,6 @@
     "images/solar_barque.jpg",
     "images/family_tree_hesiod.png",
     "images/relations_gods_hesiod-2.png",
-    "images/relations_gods_hesiod-1.png",
     "8. Midterm.md~",
     "slides/9-cosmo_anthro_grece.pdf",
     "midterm/METZLER_Mattia.pdf",
