@@ -8,55 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93db3a3e0f5010dc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f1a320d0fe7ad6e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09. Cosmo-Anthropogony in Ancient Greece.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "09. Cosmo-Anthropogony in Ancient Greece"
-            }
-          },
-          {
-            "id": "4845000f1cce9cd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Cosmo-Anthropogony in the ANE.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "10. Cosmo-Anthropogony in the ANE"
-            }
-          },
-          {
             "id": "7898801ad1fc7a67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Cosmo-Anthropogony in Ancient Egypt.md",
+                "file": "02. Myths in the ANE.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "11. Cosmo-Anthropogony in Ancient Egypt"
+              "title": "02. Myths in the ANE"
             }
           },
           {
@@ -86,6 +48,20 @@
               "icon": "lucide-file",
               "title": "13. Politics in Ancient Egypt"
             }
+          },
+          {
+            "id": "01b80410469a8af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Summary.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "14. Summary"
+            }
           }
         ]
       }
@@ -106,7 +82,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -118,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,36 +194,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "print:Print note": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "print:Print note": false
     }
   },
-  "active": "93db3a3e0f5010dc",
+  "active": "084e7516d463253a",
   "lastOpenFiles": [
-    "13. Politics in Ancient Egypt.md",
-    "12. Politics in Ancient Greece.md",
+    "Untitled.base",
+    "02. Myths in the ANE.md",
+    "Untitled 1.base",
     "11. Cosmo-Anthropogony in Ancient Egypt.md",
+    "01. Spaces of the Ancient Mediterranean.md",
+    "07. Pantheon of Ancient Egypt.md",
+    "03. Myths in Ancient Egypt.md",
     "10. Cosmo-Anthropogony in the ANE.md",
     "09. Cosmo-Anthropogony in Ancient Greece.md",
+    "14. Summary.md",
+    "print/14-summary.pdf",
+    "notes_HUM-215.pdf",
+    "13. Politics in Ancient Egypt.md",
+    "12. Politics in Ancient Greece.md",
     "images/thebes.png",
     "images/names_geography_egypt.png",
     "images/athens_social_structure_2.png",
     "images/athens_social_structure_1.png",
     "slides/12-politics-grece.pdf",
     "08. Midterm.md",
-    "07. Pantheon of Ancient Egypt.md",
     "06. Pantheon of Ancient Greece.md",
-    "02. Myths in the ANE.md",
     "05. Pantheon of the Levant and the ANE.md",
     "04. Myths in Ancient Greece.md",
-    "03. Myths in Ancient Egypt.md",
     "00. Administrative.md",
-    "01. Spaces of the Ancient Mediterranean.md",
     "images/shu_nut_geb.png",
     "images/forms_of_sun_god.png",
     "images/ennead_heliopolis.png",
@@ -258,10 +241,6 @@
     "8. Midterm.md~",
     "slides/9-cosmo_anthro_grece.pdf",
     "midterm/METZLER_Mattia.pdf",
-    "slides/7-pantheon_egypte.pdf",
-    "slides/6-pantheon_grece.pdf",
-    "slides/5-pantheon_POA.pdf",
-    "slides/4-mythes_grece.pdf",
     "README.md",
     "1. Antique Mediterranean Places.md"
   ]
